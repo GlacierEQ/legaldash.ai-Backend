@@ -25,3 +25,4 @@ This app uses the following tech stacks:
 - MongoDB
 - Docker
 - Minio
+
